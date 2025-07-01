@@ -10,7 +10,7 @@ def wait_until(end_datetime):
         if diff <= 0.1: return
 
 url1 = "https://campusonline.uni-ulm.de/CoronaNG/index.html"
-loginpayload = "uid=wxw14&password=PeterPferd08."
+loginpayload = "uid=xx4&password=Petrd08."
 url = "https://medimeisterulm.de/product/medis-2024-early-bird-ticket-code/"
 
 url2 = "https://medimeisterulm.de/zur-kasse/"
